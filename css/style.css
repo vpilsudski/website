@@ -1,0 +1,549 @@
+html {
+	box-sizing: border-box;
+	font-family: 'Montserrat', sans-serif;
+}
+
+@media (min-width: 768px) { 
+	
+	html {
+		margin-left: 10%;
+		margin-right: 10%;
+	}
+	.hamburger {
+		margin-right: 10%;
+	}
+	.cross {
+		margin-right: 10%;
+	}
+}
+
+body {
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+.clearfix {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+
+ h1 {
+	margin: 0;
+	padding-top: 6%;
+	padding-bottom: 2%;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+@media (min-width: 768px) {
+		h1 {
+		padding-top: 4%;
+		padding-bottom: 2%;
+		font-size: 45px;
+	}
+}
+
+/* Menu */ 
+
+header {
+	width:100%; 
+	background:#ffffff; 
+	height:60px; 
+	line-height:60px;
+	border-bottom:1px solid #dddddd;
+	display:inline-block; 
+	font-size:12px;
+}
+
+.hamburger {
+  background:none;
+  position:absolute;
+  top:0;
+  right:0;
+  line-height:45px;
+  padding:5px 15px 0px 15px;
+  color:#999;
+  border:0;
+  font-size:1.4em;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:1000000;
+}
+.cross {
+  background:none;
+  position:absolute;
+  top:0px;
+  right:0;
+  padding:7px 15px 0px 15px;
+  color:#999;
+  border:0;
+  font-size:3em;
+  line-height:65px;
+  font-weight:bold;
+  cursor:pointer;
+  outline:none;
+  z-index:10000000000000;
+}
+.menu {
+	z-index:1000000;
+	font-weight:bold;
+	font-size:0.8em;
+	width:100%;
+	background-color:#f1f1f1; 
+	text-align:center;
+	font-size:12px;
+	font-weight: 400;
+}
+
+.menu ul {
+	margin: 0; 
+	padding: 0;
+	list-style-type: none;
+	list-style-image: none;
+}
+
+.menu li {
+	display: block;
+	padding:15px 0 15px 0;
+	border-bottom:#dddddd 1px solid;
+	text-decoration:none;
+}
+
+.menu li:hover {
+	background:#fff;
+}
+
+.menu a {
+	text-decoration:none; 
+	color:#107089;
+	padding: 1%;
+}
+
+/* Logo */
+
+.logo img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	display: block;
+} 
+
+.logo {
+	margin: 0;
+}
+
+/* Footer */
+
+footer {
+	text-align: center;
+	background-color: #107089;
+	color: white;
+	font-size: 12px;
+	padding: 10px;
+	font-weight: 300;
+}
+
+/* Partie 1 : Chapitô */
+
+.container1 {
+	text-align: center;
+	color: #107089;
+	background-color: #f3f3f3;
+}
+
+.comment img {
+	width: 50%;
+	padding: 2%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.comment {
+	padding-bottom: 5%;
+}
+
+.container1 p {
+	font-size: 20px;
+	font-weight: 300;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+@media (min-width: 768px) {
+	.comment img {
+		max-width: 20%;
+		float: left;
+	}
+}
+
+/* Partie 2 : Pour quoi? */
+
+.container2 {
+	text-align: left;
+	color: #ffffff;
+	background-color: #107089;
+}
+
+.container2 img {
+
+}
+
+.container2 h1 {
+	padding-left: 10%;
+}
+
+.container2 p {
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: 300;
+}
+
+.paragraphe {
+	background-color: #4bb9dc;
+	padding: 5px;
+	margin-bottom: 5%;
+	margin-top: 5%;
+}
+
+.italic {
+	color: #4bb9dc;
+	font-style: italic;
+}
+
+@media (min-width: 1430px) {
+	.col-md-2 {
+		background-color: #107089;
+		max-width: 50%;
+		max-height: 460px;
+		min-height: 460px;
+		float: left;
+	}
+	.col-md-2 img {
+		min-height: 460px;
+	}
+}	
+
+/* Partie 3 : Pour qui, Où la trouver ? */
+
+.container3 {
+	text-align: center;
+	color: #107089;
+}
+
+.qui {
+	padding: 5%;
+}
+
+.trouver {
+	padding: 5%;
+	background-color: #f3f3f3;
+}
+
+.container3 p {
+	font-weight: 300;
+}
+
+.qui img {
+	width: 80%;
+}
+
+.trouver img {
+	width: 20%;
+	padding: 2%;
+}
+
+.festival img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	display: block;
+}
+
+@media (min-width: 990px) {
+	.container3 p {
+		padding-right: 5%;
+		padding-left: 5%;
+	}
+	.qui {
+		float: left;
+		width: 50%;
+	}
+	.trouver {
+		margin-left: 50%; 
+	}
+	.qui img {
+		width: 85%;
+	}
+	.trouver img {
+		width: 20%;
+	}
+}
+
+/* Partie 4 : Photo Parallaxe Ticket */
+
+.container4 {
+	height: 200px;
+	background-image: url(../img/Ticket.jpg);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Partie 5 : Carousel Webdesign */
+
+.owl-carousel img {
+	width: 100%;
+}
+
+/* Partie 6 : Les fonctionnalités et Avantages */
+
+.container6 {
+	background-color: #f3f3f3;
+}
+
+.container6 h1 {
+	text-align: center;
+	color: #107089;
+}
+
+.container6 img {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Partie 7 : Que comportent les applications */
+
+.container7 {
+	background-image: url(../img/Concert.jpg);
+	background-repeat: no-repeat;
+}
+
+.container7 h1 {
+	text-align: center;
+	color: #107089;
+}
+
+.col-md-7 {
+	background-color: #4bb9dc;
+	opacity: 0.8;
+	color: #ffffff;
+	padding: 2%;
+	margin: 5%;
+}
+
+.col-md-7 li {
+	font-weight: 200;
+}
+
+.col-md-7 h2 {
+	font-size: 20px;
+	font-weight: 300;
+	padding-left: 8%;
+}
+
+@media (min-width: 768px) {
+	.col-md-7 {
+		max-width: 42%;
+		float: left;
+		margin-right: 0;
+	}
+}
+
+.blocblanc p {
+	text-align: center;
+	color: #107089;
+	font-weight: 300;
+	font-size: 20px;
+	padding: 8%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 12%;
+	padding-right: 12%;
+	margin: 0;
+}
+
+.blocblanc {
+	background-color: white;
+}
+
+/* Partie 8 : Les avantages de cette application */
+
+.container8 {
+	background-color: #f3f3f3;
+}
+
+.container8 p {
+	text-align: left;
+	color: #107089;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: 300;
+}
+
+.container8 h1 {
+	text-align: center;
+	color: #107089;
+}
+
+.notification {
+	background-color: #4bb9dc;
+	padding: 4%;
+}
+
+.notification p {
+	color: #ffffff;
+	font-weight: 300;
+}
+
+@media (min-width: 1000px) {
+	.col-md-8 {
+		padding: 2%;
+	}
+	.avantage {
+		max-width: 60%;
+		float: left;
+	}
+	.notification {
+		margin-left: 60%;
+    	margin-right: 5%;
+	}
+}
+
+/* Partie 9 : Photo Parallaxe Ampli */
+
+.container9 {
+	height: 200px;
+	background-image: url(../img/Ampli.jpg);
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Partie 10 : Tarifs et parrainage */
+
+.container10 {
+	text-align: center;
+	color: #107089;
+}
+
+.tarif {
+	background-color: #f3f3f3;
+	padding: 5%;
+}
+
+.parrainage {
+	background-color: #ffffff;
+	padding: 5%;
+}
+
+.container10 p {
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: 300;
+}
+
+.container10 img {
+	width: 30%;
+	padding: 10px;
+}
+
+.blocbleu p {
+	text-align: center;
+	color: white;
+	font-weight: 300;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-left: 15%;
+	padding-right: 15%;
+	margin: 0;
+}
+
+.blocbleu {
+	background-color: #107089;
+}
+
+@media (min-width: 1180px) {
+	.container10 p {
+		padding-right: 10%;
+		padding-left: 10%;
+	}
+	.container10 img {
+		width: 30%;
+		padding-top: 5%;
+	}
+	.tarif {
+		float: left;
+		width: 50%;
+	}
+	.parrainage {
+		margin-left: 50%;
+	}
+}
+
+/* Partie 11 : Carousel tel */
+
+
+
+/* Partie 12 : Qui sommes nous? */
+
+.container12 img {
+	width: 100%;
+}
+
+.container12 {
+	text-align: center;
+	color: #107089;
+	min-height: 450px;
+	background-color: #f3f3f3;
+	padding-bottom: 4%;
+}
+
+.container12 p {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-weight: 300;
+}
+
+.contact2 p {
+	font-weight: 500;
+	font-size: 17px;
+	padding-right: 20%;
+	padding-left: 20%;
+}
+
+@media (min-width: 1430px) {
+	.contact1 {
+	width: 50%; 
+	float: left;
+	background-color: #ffffff;
+	padding: 2%;
+}
+
+	.contact1 p {
+		font-size: 16px;
+}
+	.contact2 p {
+		font-size: 16px;
+}
+
+	.contact2 {
+	width: 50%;
+	float: left; 
+	background-color: #f3f3f3;
+	padding: 2%;
+	}
+}
+
+
