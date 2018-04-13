@@ -62,7 +62,7 @@ header {
 
 .hamburger {
   background:none;
-  position:absolute;
+  position:relative;
   top:0;
   right:0;
   line-height:45px;
@@ -75,9 +75,10 @@ header {
   outline:none;
   z-index:1000000;
 }
+
 .cross {
   background:none;
-  position:absolute;
+  position:relative;
   top:0px;
   right:0;
   padding:7px 15px 0px 15px;
@@ -90,6 +91,7 @@ header {
   outline:none;
   z-index:10000000000000;
 }
+
 .menu {
 	z-index:1000000;
 	font-weight:bold;
@@ -99,6 +101,7 @@ header {
 	text-align:center;
 	font-size:12px;
 	font-weight: 400;
+	position: absolute;
 }
 
 .menu ul {
@@ -138,6 +141,15 @@ header {
 	margin: 0;
 }
 
+@media (min-width: 768px) {
+	header {
+		height: 60px;
+	}
+	.menu {
+		width: 80%;
+	}	
+}
+
 /* Footer */
 
 footer {
@@ -149,6 +161,15 @@ footer {
 	font-weight: 300;
 }
 
+footer a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+footer a:hover {
+	color: #4bb9dc;
+}
+
 /* Partie 1 : Chapitô */
 
 .container1 {
@@ -158,19 +179,17 @@ footer {
 }
 
 .comment img {
-	width: 50%;
+	width: 35%;
 	padding: 2%;
-	display: block;
-	margin-right: auto;
-	margin-left: auto;
 }
 
 .comment {
-	padding-bottom: 5%;
+	padding-bottom: 6%;
+	padding-top: 3%;
 }
 
 .container1 p {
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 300;
 	margin-left: 20%;
 	margin-right: 20%;
@@ -178,8 +197,10 @@ footer {
 
 @media (min-width: 768px) {
 	.comment img {
-		max-width: 20%;
-		float: left;
+		max-width: 25%;
+	}
+	.container1 p {
+		font-size: 20px;
 	}
 }
 
@@ -191,17 +212,13 @@ footer {
 	background-color: #107089;
 }
 
-.container2 img {
-
-}
-
 .container2 h1 {
 	padding-left: 10%;
 }
 
 .container2 p {
 	padding-left: 10%;
-	padding-right: 10%;
+	padding-right: 13%;
 	font-weight: 300;
 }
 
@@ -209,7 +226,7 @@ footer {
 	background-color: #4bb9dc;
 	padding: 5px;
 	margin-bottom: 5%;
-	margin-top: 5%;
+	margin-top: 3%;
 }
 
 .italic {
@@ -227,6 +244,7 @@ footer {
 	}
 	.col-md-2 img {
 		min-height: 460px;
+		max-height: 460px;
 	}
 }	
 
@@ -303,6 +321,13 @@ footer {
 	width: 100%;
 }
 
+.container5 h1 {
+	font-weight: 400;
+	text-align: center;
+	color: #107089;
+	padding: 3%;
+}
+
 /* Partie 6 : Les fonctionnalités et Avantages */
 
 .container6 {
@@ -326,6 +351,7 @@ footer {
 .container7 {
 	background-image: url(../img/Concert.jpg);
 	background-repeat: no-repeat;
+	padding-bottom: 5%;
 }
 
 .container7 h1 {
@@ -357,13 +383,19 @@ footer {
 		float: left;
 		margin-right: 0;
 	}
+	.container7 {
+		background-size: cover;
+		/*width: 80%;*/
+	/*	position: absolute;*/
+		padding-bottom: 0%;
+	}
 }
 
 .blocblanc p {
 	text-align: center;
 	color: #107089;
 	font-weight: 300;
-	font-size: 20px;
+	font-size: 18px;
 	padding: 8%;
 	padding-top: 5%;
 	padding-bottom: 5%;
@@ -380,13 +412,14 @@ footer {
 
 .container8 {
 	background-color: #f3f3f3;
+	min-height: 400px;
 }
 
 .container8 p {
 	text-align: left;
 	color: #107089;
 	padding-left: 10%;
-	padding-right: 10%;
+	padding-right: 13%;
 	font-weight: 300;
 }
 
@@ -397,12 +430,14 @@ footer {
 
 .notification {
 	background-color: #4bb9dc;
-	padding: 4%;
+	padding-top: 4%;
+	padding-bottom: 4%;
 }
 
 .notification p {
 	color: #ffffff;
 	font-weight: 300;
+	font-size: 18px;
 }
 
 @media (min-width: 1000px) {
@@ -493,7 +528,45 @@ footer {
 
 /* Partie 11 : Carousel tel */
 
+.container11 h1 {
+	font-weight: 400;
+	text-align: center;
+	color: #107089;
+	padding: 3%;
+}
 
+.owl-dot {
+	display: inline-block;   
+}
+
+.owl-dots {
+	text-align: center;
+    -webkit-tap-highlight-color: transparent;
+    padding: 1%;
+}
+
+button.owl-dot{
+	background: 0 0;
+    color: inherit;
+    border: none;
+    padding: 0!important;
+    font: inherit;
+}
+
+.owl-dot.active span {
+	background: #869791;
+}
+
+.owl-dot span {
+	width: 10px;
+    height: 10px;
+    margin: 5px 7px;
+    background: #D6D6D6;
+    display: block;
+    -webkit-backface-visibility: visible;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
 
 /* Partie 12 : Qui sommes nous? */
 
@@ -530,20 +603,56 @@ footer {
 	background-color: #ffffff;
 	padding: 2%;
 }
-
 	.contact1 p {
 		font-size: 16px;
 }
 	.contact2 p {
 		font-size: 16px;
 }
-
 	.contact2 {
 	width: 50%;
 	float: left; 
 	background-color: #f3f3f3;
 	padding: 2%;
 	}
+}
+
+/* Back to top */
+
+@media (min-width: 1180px) {
+#return-to-top {
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+    width: 80px;
+    height: 80px;
+    display: block;
+    text-decoration: none;
+    display: none;
+    background-image: url(../img/backtotop2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+#return-to-top:hover {
+    background-image: url(../img/backtotop1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
 }
 
 
