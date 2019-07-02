@@ -1,0 +1,21 @@
+{
+  "name": "chapito-website",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chapi-to/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chapi-to/website/issues"
+  },
+  "homepage": "https://github.com/Chapi-to/website#readme",
+  "devDependencies": {
+    "nuxt": "^2.8.1"
+  }
+}
