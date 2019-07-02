@@ -51,6 +51,8 @@ module.exports = {
   */
   loading: {color: '#222333'},
 
+  plugins: [{ src: '~plugins/vue-carousel', ssr: false }],
+
   /*
   ** Global CSS
   */

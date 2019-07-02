@@ -16,7 +16,7 @@
             onclick="afficheMenu(this)"
           >
             <li>
-                <!-- <a href="#"><img
+              <!-- <a href="#"><img
                   src="~/assets/img/menu%20blanc%20Fichier%203@4x.png"
                   width="50px"
                   alt="icone menu"
@@ -224,50 +224,50 @@
         <h1>Nos réalisations</h1>
       </div>
       <div class="background-rectangle background-rectangle-blue"></div>
-      <div class="slider carousel">
-        <div>
+      <carousel
+        class="carousel"
+        :per-page="1"
+        :autoplay="true"
+        :loop="true"
+        paginationPosition="bottom-overlay"
+      >
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-      </div>
+        </slide>
+      </carousel>
     </div>
 
     <div class="container">

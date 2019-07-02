@@ -17,5 +17,8 @@
   "homepage": "https://github.com/Chapi-to/website#readme",
   "devDependencies": {
     "nuxt": "^2.8.1"
+  },
+  "dependencies": {
+    "vue-carousel": "^0.18.0"
   }
 }

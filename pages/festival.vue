@@ -209,50 +209,51 @@
         <h1>Nos réalisations</h1>
       </div>
       <div class="background-rectangle background-rectangle-pink"></div>
-      <div class="slider carousel">
-        <div>
+
+      <carousel
+        class="carousel"
+        :per-page="1"
+        :autoplay="true"
+        :loop="true"
+        paginationPosition="bottom-overlay"
+      >
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-        <div>
+        </slide>
+        <slide>
           <img
             src="~/assets/img/black-phones.png"
-            width="100%"
             alt="exemple d'application"
           >
-        </div>
-      </div>
+        </slide>
+      </carousel>
     </div>
 
     <div class="container">
