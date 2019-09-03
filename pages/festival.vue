@@ -268,7 +268,7 @@
         ></div>
         <div class="bloc-carre carre-col-1">
 
-          <h3>Tarifs de<br>Chapitô<br>à partir de 2500€</h3>
+          <h3>Profitez de<br>Chapitô<br>à partir de 2500€</h3>
           <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
         </div>
 
