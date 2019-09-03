@@ -99,14 +99,14 @@
         </div>
 
         <div class="advantage-event pink">
-          <div class="bloc-event-festival"><span>Concernant votre événement</span></div>
+          <div class="bloc-event-festival"><span>Concernant votre festival</span></div>
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
               src="~/assets/img/alternarif.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes alternatifs</h4>
+            <h4 class="titre-adv">Programmes personnalisés</h4>
             <div
               class="toggle"
               id="titlefirst"
@@ -126,7 +126,7 @@
               src="~/assets/img/update.png"
               width="60px"
             >
-            <h4 class="titre-adv">Mise à jour des contenus en instantané</h4>
+            <h4 class="titre-adv">Mode hors ligne</h4>
             <div
               class="toggle"
               id="titlesecond"
@@ -164,7 +164,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Mode hors-ligne</h4>
+            <h4 class="titre-adv">Carte ou Plan</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div class="arrow"></div>
           </div>
@@ -268,7 +268,7 @@
         ></div>
         <div class="bloc-carre carre-col-1">
 
-          <h3>Tarifs de<br>Chapitô<br>2500€</h3>
+          <h3>Tarifs de<br>Chapitô<br>à partir de 2500€</h3>
           <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
         </div>
 
