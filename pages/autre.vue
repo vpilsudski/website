@@ -68,7 +68,7 @@
         <h1>Pour<br>qui ?</h1>
       </div>
       <div class="paragraph-who">
-        <p><strong>Votre public ou vos clients </strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
+        <p><strong>Votre public ou vos clients</strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
       </div>
       <div class="subtitle-where">
         <h1>Où la<br>trouver ?</h1>
