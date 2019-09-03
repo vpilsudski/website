@@ -49,7 +49,7 @@
 
       <div class="container-why">
         <div id="subtitle-why">
-          <h1>Pour quoi ?</h1>
+          <h1>Pourquoi ?</h1>
         </div>
         <div class="paragraph-why">
           <p>Créer une application pour votre festival permet à votre public de connaître toutes les informations relatives à votre événement :<br><br>
