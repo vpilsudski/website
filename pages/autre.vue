@@ -39,7 +39,7 @@
         </div>
 
         <div class="about-paragraph">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>Chapitô est un outil 100% en ligne. Le but de Chapitô est de créer une application “sur-mesure” sans avoir de connaissance en développement web ni en développement d’application. Campings, Bars, Restaurants, Salle de Spectacle, Associations, Cafés, Galeries d'art, Parcs d'atraction, vous êtes certainement concernés par une application ! Le numérique devient indispensable..</p>
         </div>
 
         <div class="arrow-bottom"><a href="#subtitle-why"><img
@@ -50,12 +50,13 @@
 
       <div class="container-why">
         <div id="subtitle-why">
-          <h1>Pour quoi ?</h1>
+          <h1>Pourquoi ?</h1>
         </div>
         <div class="paragraph-why">
-          <p>Créer une application pour votre festival permet à votre public de connaître toutes les informations relatives à votre événement :<br><br>
+          <p>Créer une application permet à votre public ou clientèle de connaître toutes les informations relatives à votre activité :
+<br><br>
 
-            <strong>Les artistes présents, les horaires des concerts, la programmation, des extraits musicaux et musiques, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br> MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
+            <strong>Les animations et activtés, les interventions, les invités, les horaires des concerts, les différents programmes, les événements, les soirées organisées, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br>MAIS ! également d'être alerté des changements et informé des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables, mais aussi ciblées ou générales.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
 
       </div>
@@ -67,13 +68,13 @@
         <h1>Pour<br>qui ?</h1>
       </div>
       <div class="paragraph-who">
-        <p><strong>Vos festivaliers</strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
+        <p><strong>Votre public ou vos clients </strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
       </div>
       <div class="subtitle-where">
         <h1>Où la<br>trouver ?</h1>
       </div>
       <div class="paragraph-where">
-        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre festival. La classe !</p>
+        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre image.</p>
       </div>
     </div>
     <div class="container">
@@ -103,7 +104,7 @@
               src="~/assets/img/alternarif.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes alternatifs</h4>
+            <h4 class="titre-adv">Programmes personnalisés</h4>
             <div
               class="toggle"
               id="titlefirst"
@@ -140,7 +141,7 @@
               src="~/assets/img/filtre.png"
               width="60px"
             >
-            <h4 class="titre-adv">Filtres sur programme</h4>
+            <h4 class="titre-adv">Filtres sur programmes</h4>
             <div
               class="toggle"
               id="titlethird"
@@ -164,7 +165,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Mode hors-ligne</h4>
+            <h4 class="titre-adv">Notification ciblées</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -177,7 +178,7 @@
               src="~/assets/img/cashless.png"
               width="60px"
             >
-            <h4 class="titre-adv">Cashless</h4>
+            <h4 class="titre-adv">Utilisation annuelle ou ponctuelle</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -190,7 +191,7 @@
               src="~/assets/img/billet.png"
               width="60px"
             >
-            <h4 class="titre-adv">Billeterie</h4>
+            <h4 class="titre-adv">Liste des participants</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -203,7 +204,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Notifications</h4>
+            <h4 class="titre-adv">Privatisation de l'application</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -282,7 +283,7 @@
         ></div>
         <div class="bloc-carre carre-col-1">
 
-          <h3>Tarifs de<br>Chapitô<br>2500€</h3>
+          <h3>Tarifs de<br>Chapitô<br>a partir de 3300€</h3>
           <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
         </div>
 
