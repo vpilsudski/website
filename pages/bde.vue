@@ -39,7 +39,7 @@
         </div>
 
         <div class="about-paragraph">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>Chapitô est un outil 100% en ligne. Le but de Chapitô est de permettre à n’importe quel BDE ou association étudiante organisateur d’événements de pouvoir créer une application « sur-mesure » sans avoir de connaissances en développement web ni en développement d’application.</p>
         </div>
 
         <div class="arrow-bottom"><a href="#subtitle-why"><img
@@ -50,12 +50,12 @@
 
       <div class="container-why">
         <div id="subtitle-why">
-          <h1>Pour quoi ?</h1>
+          <h1>Pourquoi ?</h1>
         </div>
         <div class="paragraph-why-left">
-          <p>Créer une application pour votre festival permet à votre public de connaître toutes les informations relatives à votre événement :<br><br>
+          <p>Créer une application pour votre BDE permet à tous les étudiants de connaître toutes les informations relatives aux associations et à la vie de l'école :<br><br>
 
-            <strong>Les artistes présents, les horaires des concerts, la programmation, des extraits musicaux et musiques, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br> MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
+            <strong>Les intervenants présents, les horaires des soirées, la programmation, les infos sur le week-end d’inté, les infos pratiques, les préventes, les partenaires, la billetterie etc..</strong><br><br> MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications !<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
         <div
           class="circle"
@@ -70,13 +70,13 @@
         <h1>Pour<br>qui ?</h1>
       </div>
       <div class="paragraph-who">
-        <p><strong>Vos festivaliers</strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
+        <p><strong>Les étudiants</strong>pourront enfin avoir accès à toutes les information dont ils ont besoin et réserver leur préventes de soirées directement sur leurs smartphones grâce à votre application !</p>
       </div>
       <div class="subtitle-where">
         <h1>Où la<br>trouver ?</h1>
       </div>
       <div class="paragraph-where">
-        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre festival. La classe !</p>
+        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre BDE ou association étudiante. La classe !</p>
       </div>
     </div>
     <div class="container">
@@ -99,14 +99,14 @@
           <div
             class="bloc-event-festival"
             id="bloc-event-bde"
-          ><span>Concernant votre événement</span></div>
+          ><span>Concernant vos événements</span></div>
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
               src="~/assets/img/alternarif.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes alternatifs</h4>
+            <h4 class="titre-adv">Programmes de vos événements</h4>
             <div
               class="toggle"
               id="titlefirst"
@@ -143,7 +143,7 @@
               src="~/assets/img/filtre.png"
               width="60px"
             >
-            <h4 class="titre-adv">Filtres sur programme</h4>
+            <h4 class="titre-adv">Privatisation de l'application</h4>
             <div
               class="toggle"
               id="titlethird"
@@ -206,7 +206,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Notifications</h4>
+            <h4 class="titre-adv">Notifications ciblées</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -282,7 +282,7 @@
         ></div>
         <div class="bloc-carre carre-col-1">
 
-          <h3>Tarifs de<br>Chapitô<br>2500€</h3>
+          <h3>Tarifs de<br>Chapitô<br>à partir de 3300€</h3>
           <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
         </div>
 
@@ -293,7 +293,7 @@
         <div class="bloc-carre carre-col-2">
 
           <h3>Offre<br>parrainage<br>500€</h3>
-          <p>Parrainez un autre événement, vous obtiendrez une réduction de 500€ et votre filleul 250€.</p>
+          <p>Parrainez un autre événement ou BDE, vous obtiendrez une réduction de 500€ et votre filleul 250€.</p>
         </div>
 
       </div>
