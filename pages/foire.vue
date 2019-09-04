@@ -231,7 +231,7 @@
         <h1>Nos réalisations</h1>
       </div>
       <div class="background-rectangle background-rectangle-nude"></div>
-      <<carousel
+      <carousel
         class="carousel"
         :per-page="1"
         :autoplay="true"
