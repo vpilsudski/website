@@ -8,7 +8,7 @@
       ></a>
     <div class="container">
 
-      <div class="head-container head-salon">
+      <div class="head-container head-foire">
         <div class="menu">
           <ul
             class="menu"
@@ -33,8 +33,8 @@
           </ul>
         </div>
 
-        <div class="title title-salon">
-          <h2>Salon</h2>
+        <div class="title title-foire">
+          <h2>Foire</h2>
         </div>
 
         <div class="about-paragraph">
@@ -95,7 +95,7 @@
         <div class="advantage-event nude">
           <div
             class="bloc-event-festival"
-            id="bloc-event-salon"
+            id="bloc-event-foire"
           ><span>Concernant votre événement</span></div>
           <div class="advantage col-1-adv hidden">
             <img
