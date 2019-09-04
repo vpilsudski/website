@@ -139,6 +139,10 @@ ul li a {
     border-bottom: #FD999A 5px solid;
 }
 
+.green-home .menu-main-title:hover {
+    border-bottom: #25D366 5px solid;
+}
+
 .orange-home .menu-main-title:hover {
     border-bottom: #FF876C 5px solid;
 }
@@ -166,6 +170,12 @@ ul li a {
 .nude a:active,
 .nude a:focus {
     border-bottom: 3px solid #FD999A;
+}
+
+.green a:hover,
+.green a:active,
+.green a:focus {
+    border-bottom: 3px solid #25D366;
 }
 
 .orange a:hover,
@@ -258,6 +268,14 @@ ul li a {
     transition: background-color 1s ease-out;
 }
 
+.img-blob.green-home {
+    background-color: #25D366;
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+}
+
 .img-blob.orange-home {
     background-color: #FF876C;
     -webkit-transition: background-color 1s ease-out;
@@ -340,6 +358,13 @@ ul li a {
 .violet a:active,
 .violet a:focus {
     color: #8B03C7;
+    transform: scale(1.2);
+}
+
+.green a:hover,
+.green a:active,
+.green a:focus {
+    color: #25D366;
     transform: scale(1.2);
 }
 
@@ -535,6 +560,10 @@ url(/img/salon%202.png) no-repeat bottom 5% left 5%;
     background-color: #1EC0FF;
 }
 
+.who-foire {
+    background-color: #25D366;
+}
+
 .who-autre {
     background-color: #FF876C;
 }
@@ -684,6 +713,13 @@ url(/img/salon%202.png) no-repeat bottom 5% left 5%;
     background: #FDB9BA;
 }
 
+#bloc-info-foire {
+    background: #25D366;
+}
+
+#bloc-event-foire {
+    background: #25D366;
+    
 #bloc-info-autre {
     background: #FC344F;
 }
@@ -980,7 +1016,11 @@ url(/img/salon%202.png) no-repeat bottom 5% left 5%;
 .background-rectangle-nude {
     background: #FD999A
 }
-
+    
+#background-rectangle-greeen {
+    background: #25D366;
+}
+    
 #background-rectangle-orange {
     background: #FF876C;
 }
@@ -1145,7 +1185,11 @@ url(/img/salon%202.png) no-repeat bottom 5% left 5%;
 #btn-color-nude {
     background: #FD999A;
 }
-
+    
+#btn-color-orange {
+    background: #25D366;
+}
+    
 #btn-color-orange {
     background: #FF876C;
 }
@@ -1485,6 +1529,12 @@ footer ul li a {
 
     }
 
+    .green-home {
+        background-color: #25D366;
+        border-bottom: 0 !important;
+        border-radius: 30px;
+    }
+    
     .orange-home {
         background-color: #FF876C;
         border-bottom: 0 !important;
@@ -1562,6 +1612,9 @@ footer ul li a {
     .blue-home a:hover,
     .blue-home a:active,
     .blue-home a:focus,
+    .green-home a:hover,
+    .green-home a:active,
+    .green-home a:focus,
     .orange-home a:hover,
     .orange-home a:active,
     .orange-home a:focus,
