@@ -61,7 +61,7 @@
       </div>
 
     </div>
-    <div class="container-who who-salon">
+    <div class="container-who who-foire">
 
       <div class="subtitle-who">
         <h1>Pour<br>qui ?</h1>
