@@ -25,9 +25,9 @@
               style="display: none"
             >
               <li class="sousmenu yellow"><a href="festival.html">Festival</a></li>
-              <li class="sousmenu red"><a href="#">Salon</a></li>
-              <li class="sousmenu violet"><a href="#">BDE</a></li>
-              <li class="sousmenu orange"><a href="#">Autre</a></li>
+              <li class="sousmenu red"><a href="salon.html">Salon</a></li>
+              <li class="sousmenu violet"><a href="bde.html">BDE</a></li>
+              <li class="sousmenu orange"><a href="autre.html">Autre</a></li>
             </ul>
             </li>
           </ul>
