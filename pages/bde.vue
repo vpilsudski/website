@@ -83,142 +83,74 @@
 
       <div class="container-img">
         <img
-          src="~/assets/img/Photos-festivals-RVB.jpg"
+          src="~/assets/img/Photos-BDE.jpg"
           width="100%"
         >
 
       </div>
 
-      <div class="container-advantage">
+     <div class="container-advantage">
 
-        <div class="subtitle-advantage">
-          <h1>Les avantages</h1>
-        </div>
-
-        <div class="advantage-event blue">
-          <div
-            class="bloc-event-festival"
-            id="bloc-event-bde"
-          ><span>Concernant vos événements</span></div>
-          <div class="advantage col-1-adv hidden">
-            <img
-              class="img-adv"
-              src="~/assets/img/alternarif.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Programmes de vos événements</h4>
-            <div
-              class="toggle"
-              id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
-            <!-- LA ICI -->
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-1-adv','blue')"
-              id="arrowfirst"
-            >
-
+            <div class="subtitle-advantage">
+                <h1>Les avantages</h1>
             </div>
 
-          </div>
-          <div class="advantage col-2-adv hidden"><img
-              class="img-adv"
-              src="~/assets/img/update.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Mise à jour des contenus en instantané</h4>
-            <div
-              class="toggle"
-              id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
-            <!-- LA ICI -->
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-2-adv','blue')"
-              id="arrowsecond"
-            ></div>
-          </div>
-          <div class="advantage col-3-adv hidden"><img
-              class="img-adv"
-              src="~/assets/img/filtre.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Privatisation de l'application</h4>
-            <div
-              class="toggle"
-              id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
-            <!-- LA ICI -->
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-3-adv','blue')"
-              id="arrowthird"
-            ></div>
-          </div>
-        </div>
+            <div class="advantage-event blue">
+                <div class="bloc-event-festival" id="bloc-event-bde"><span>Concernant vos événements</span></div>
+                <div class="advantage col-1-adv hidden">
+                    <img class="img-adv" src="./img/icons8-calendar-80.png" width="60px">
+                    <h4 class="titre-adv">Programmes de vos évènements</h4>
+                    <div class="toggle" id="titlefirst">blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+                    <!-- LA ICI -->
+                    <div class="arrow" onclick="javascript:toggl('col-1-adv','blue')" id="arrowfirst">
+                      
+                    </div>
 
-        <div class="advantage-info dark-blue">
-          <div
-            class="bloc-info-festival"
-            id="bloc-festival-bde"
-          ><span>Informations pratiques</span></div>
-          <div class="advantage col-1-adv-bis hidden"><img
-              class="img-adv"
-              src="~/assets/img/offline.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Mode hors-ligne</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-1-adv-bis','dark-blue')"
-            ></div>
-          </div>
-          <div class="advantage col-2-adv-bis hidden">
-            <img
-              class="img-adv"
-              src="~/assets/img/cashless.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Cashless</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-2-adv-bis','dark-blue')"
-            ></div>
-          </div>
-          <div class="advantage col-3-adv-bis hidden">
-            <img
-              class="img-adv"
-              src="~/assets/img/billet.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Billeterie</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-3-adv-bis','dark-blue')"
-            ></div>
-          </div>
-          <div class="advantage col-4-adv hidden">
-            <img
-              class="img-adv"
-              src="~/assets/img/offline.png"
-              width="60px"
-            >
-            <h4 class="titre-adv">Notifications ciblées</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
-            <div
-              class="arrow"
-              onclick="javascript:toggl('col-4-adv','dark-blue')"
-            ></div>
-          </div>
-        </div>
+                </div>
+                <div class="advantage col-2-adv hidden"><img class="img-adv" src="./img/update.png" width="60px">
+                    <h4 class="titre-adv">Mise à jour des contenus en instantané</h4>
+                    <div class="toggle" id="titlesecond">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <!-- LA ICI -->
+                    <div class="arrow" onclick="javascript:toggl('col-2-adv','blue')" id="arrowsecond"></div>
+                </div>
+                <div class="advantage col-3-adv hidden"><img class="img-adv" src="./img/icons8-lock-80.png" width="60px">
+                    <h4 class="titre-adv">Privatisation de l'application</h4>
+                    <div class="toggle" id="titlethird">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <!-- LA ICI -->
+                    <div class="arrow" onclick="javascript:toggl('col-3-adv','blue')" id="arrowthird"></div>
+                </div>
+            </div>
 
-      </div>
+            <div class="advantage-info dark-blue">
+                <div class="bloc-info-festival" id="bloc-festival-bde"><span>Informations pratiques</span></div>
+                <div class="advantage col-1-adv-bis hidden"><img class="img-adv" src="./img/icons8-gps-disconnected-80.png" width="60px">
+                    <h4 class="titre-adv">Mode hors-ligne</h4>
+                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="arrow" onclick="javascript:toggl('col-1-adv-bis','dark-blue')"></div>
+                </div>
+                <div class="advantage col-2-adv-bis hidden">
+                    <img class="img-adv" src="./img/cashless.png" width="60px">
+                    <h4 class="titre-adv">Cashless</h4>
+                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="arrow" onclick="javascript:toggl('col-2-adv-bis','dark-blue')"></div>
+                </div>
+                <div class="advantage col-3-adv-bis hidden">
+                    <img class="img-adv" src="./img/billet.png" width="60px">
+                    <h4 class="titre-adv">Billeterie</h4>
+                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="arrow" onclick="javascript:toggl('col-3-adv-bis','dark-blue')"></div>
+                </div>
+                <div class="advantage col-4-adv hidden">
+                    <img class="img-adv" src="./img/notification.png" width="60px">
+                    <h4 class="titre-adv">Notifications ciblées</h4>
+                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="arrow" onclick="javascript:toggl('col-4-adv','dark-blue')"></div>
+                </div>
+            </div>
+
+        </div>
 
     </div>
-
     <div class="container-production">
       <div class="subtitle-production">
         <h1>Nos réalisations</h1>
