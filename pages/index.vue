@@ -34,6 +34,13 @@
             @mouseover.native="mode = 'salon'"
           >Salon</nuxt-link>
         </li>
+        <li class="green-home">
+          <nuxt-link
+            class="menu-main-title"
+            to="/foire"
+            @mouseover.native="mode = 'foire'"
+          >Autre</nuxt-link>
+        </li>
         <li class="orange-home">
           <nuxt-link
             class="menu-main-title"
@@ -67,7 +74,13 @@
         src="~/assets/img/essai-panno.png"
         width="400px"
       ></div>
-
+    <div
+      class="img-blob green-home"
+      v-if="mode === 'foire'"
+    > <img
+        src="~/assets/img/essai-panno.png"
+        width="400px"
+      ></div>
     <div
       class="img-blob orange-home"
       v-if="mode === 'autre'"
