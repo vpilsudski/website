@@ -28,6 +28,7 @@
                 <li class="sousmenu yellow"><a href="festival.html">Festival</a></li>
                 <li class="sousmenu red"><a href="#">Salon</a></li>
                 <li class="sousmenu violet"><a href="#">BDE</a></li>
+                <li class="sousmenu violet"><a href="#">Foire</a></li>
                 <li class="sousmenu orange"><a href="#">Autre</a></li>
               </ul>
             </li>
