@@ -80,7 +80,7 @@
 
       <div class="container-img">
         <img
-          src="~/assets/img/Photos-festivals-RVB.jpg"
+          src="~/assets/img/Photos-salon.jpg"
           width="100%"
         >
 
