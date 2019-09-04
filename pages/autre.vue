@@ -68,7 +68,7 @@
         <h1>Pour<br>qui ?</h1>
       </div>
       <div class="paragraph-who">
-        <p><strong>Votre public ou vos clients </strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
+        <p><strong>Votre public ou vos clients</strong> pourront enfin avoir accès à toutes les informations dont ils ont besoin directement sur leurs smartphones grâce à votre application !</p>
       </div>
       <div class="subtitle-where">
         <h1>Où la<br>trouver ?</h1>
@@ -283,7 +283,7 @@
         ></div>
         <div class="bloc-carre carre-col-1">
 
-          <h3>Tarifs de<br>Chapitô<br>a partir de 3300€</h3>
+          <h3>Profitez de<br>Chapitô<br>a partir de 3300€</h3>
           <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
         </div>
 

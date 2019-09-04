@@ -38,7 +38,7 @@
         </div>
 
         <div class="about-paragraph">
-          <p>Chapitô est un outil 100% en ligne. Le but de Chapitô est de permettre à n’importe quel organisateur de salon professionel ou grand public de pouvoir créer une application « sur-mesure » sans avoir de connaissances en développement web ni en développement d’application.</p>
+          <p>Chapitô est un outil 100% en ligne. Le but de Chapitô est de permettre à n’importe quel organisateur de foire de pouvoir créer une application “sur-mesure” sans avoir de connaissance en développement web ni en développement d’application.</p>
         </div>
 
         <div class="arrow-bottom"><a href="#subtitle-why"><img
@@ -52,9 +52,9 @@
           <h1>Pourquoi ?</h1>
         </div>
         <div class="paragraph-why-left">
-          <p>Créer une application pour votre salon permet à votre public de connaître toutes les informations relatives à votre événement :<br><br>
+          <p>Créer une application pour votre foire permet à vos participants de connaître toutes les informations relatives à votre événement :<br><br>
 
-            <strong>Les exposants présents, les horaires des animations, la programmation, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br>MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
+            <strong>Les intervenants présents, les animations et les horaires, les différents programmes, les informations pratiques, les principaux points d’intérêt, une carte complète, les partenaires, etc…</strong><br><br>MAIS ! également d'être alerté des changements et informé des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables, mais aussi ciblées ou générales.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
         <div class="circle"><span>Lorem ipsum</span></div>
       </div>
@@ -73,7 +73,7 @@
         <h1>Où la<br>trouver ?</h1>
       </div>
       <div class="paragraph-where">
-        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre salon. La classe !</p>
+        <p>L’application sera téléchargeable gratuitement sur <strong>iPhone et Android</strong>, elle correspondra parfaitement à votre événement. La classe !</p>
       </div>
     </div>
     <div class="container">
@@ -96,14 +96,14 @@
           <div
             class="bloc-event-festival"
             id="bloc-event-salon"
-          ><span>Concernant votre salon</span></div>
+          ><span>Concernant votre événement</span></div>
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
               src="~/assets/img/alternarif.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes personnalisé</h4>
+            <h4 class="titre-adv">Programmes personnalisés</h4>
             <div
               class="toggle"
               id="titlefirst"
@@ -142,7 +142,7 @@
               src="~/assets/img/filtre.png"
               width="60px"
             >
-            <h4 class="titre-adv">Privatisation de l'application</h4>
+            <h4 class="titre-adv">Filtres sur les programmes</h4>
             <div
               class="toggle"
               id="titlethird"
@@ -166,7 +166,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Notifications ciblées</h4>
+            <h4 class="titre-adv">Liste participants (stands, professionnels ou autre)</h4>
             <div
               id="titlefourth"
               class="toggle"
@@ -183,7 +183,7 @@
               src="~/assets/img/cashless.png"
               width="60px"
             >
-            <h4 class="titre-adv">Cashless</h4>
+            <h4 class="titre-adv">Carte ou Plan détaillé </h4>
             <div
               id="titlefifth"
               class="toggle"
@@ -199,7 +199,7 @@
               src="~/assets/img/billet.png"
               width="60px"
             >
-            <h4 class="titre-adv">Mode hors-ligne</h4>
+            <h4 class="titre-adv">Notifications ciblée</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
@@ -212,7 +212,7 @@
               src="~/assets/img/offline.png"
               width="60px"
             >
-            <h4 class="titre-adv">Billeterie</h4>
+            <h4 class="titre-adv">Mode hors-ligne</h4>
             <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
             <div
               class="arrow"
