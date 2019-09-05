@@ -166,40 +166,15 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
+            src="~/assets/img/ieseg iphone.png"
             alt="exemple d'application"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
+            src="~/assets/img/kedge iphone.png"
             alt="exemple d'application"
           >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
       </carousel>
     </div>
 
