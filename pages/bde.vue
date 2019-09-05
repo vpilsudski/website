@@ -217,7 +217,7 @@
         <a href="#">Nous contacter</a>
       </div>
       <div class="btn-demo">
-        <a href="#">Programmer une démo</a>
+        <a href="http://calendly.com/chapito">Programmer une démo</a>
       </div>
     </div>
 
