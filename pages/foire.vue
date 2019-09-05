@@ -352,7 +352,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
@@ -368,7 +368,7 @@
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>
