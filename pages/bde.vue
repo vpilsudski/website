@@ -175,6 +175,7 @@
             src="~/assets/img/kedge iphone.png"
             alt="Mockup Kedge"
           >
+          </slide>
       </carousel>
     </div>
 
