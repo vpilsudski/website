@@ -27,6 +27,7 @@
               <li class="sousmenu yellow"><a href="festival.html">Festival</a></li>
               <li class="sousmenu red"><a href="salon.html">Salon</a></li>
               <li class="sousmenu violet"><a href="bde.html">BDE</a></li>
+              <li class="sousmenu green"><a href="foire.html">Foire</a></li>
               <li class="sousmenu orange"><a href="autre.html">Autre</a></li>
             </ul>
             </li>
@@ -239,37 +240,7 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
+            src="~/assets/img/european lab iphone.png"
             alt="exemple d'application"
           >
         </slide>
