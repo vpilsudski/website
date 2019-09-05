@@ -173,7 +173,7 @@
         <slide>
           <img
             src="~/assets/img/kedge iphone.png"
-            alt="Mockup Kedge"
+            alt="Mockup Kedge BDE"
           >
           </slide>
       </carousel>
