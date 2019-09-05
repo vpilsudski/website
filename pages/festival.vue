@@ -219,38 +219,44 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/Nuits sonores iphone.png"
+            alt="Mockup Nuits Sonores Festival"
+          >
+           </slide>
+            <slide>
+          <img
+            src="~/assets/img/aucard iphone.png"
+            alt="Mockup Aucard"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/panoramas iphone.png"
+            alt="Mockup Panoramas Festival"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/pitchfork iphone.png"
+            alt="Mockup Pitchfork Festival"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/rdv erdre iphone.png"
+            alt="Mockup RDV erdre"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/terres du son iphone.png"
+            alt="Mockup Terres du son"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/vilette iphone.png"
+            alt="Mockup Vilette Sonique"
           >
         </slide>
       </carousel>
