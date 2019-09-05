@@ -28,6 +28,7 @@
                 <li class="sousmenu yellow"><a href="festival.html">Festival</a></li>
                 <li class="sousmenu red"><a href="#">Salon</a></li>
                 <li class="sousmenu violet"><a href="#">BDE</a></li>
+                <li class="sousmenu green"><a href="#">Foire</a></li>
                 <li class="sousmenu orange"><a href="#">Autre</a></li>
               </ul>
             </li>
@@ -81,7 +82,7 @@
 
       <div class="container-img">
         <img
-          src="~/assets/img/Photos-festivals-RVB.jpg"
+          src="~/assets/img/Photos-autre.jpg"
           width="100%"
         >
 
@@ -376,7 +377,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
