@@ -240,38 +240,8 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/FAVA iphone.png"
+            alt="Mockup Foire aux vins d'Alsace"
           >
         </slide>
       </carousel>
