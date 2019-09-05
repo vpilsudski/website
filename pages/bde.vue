@@ -284,7 +284,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
