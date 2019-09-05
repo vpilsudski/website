@@ -167,13 +167,13 @@
         <slide>
           <img
             src="~/assets/img/ieseg iphone.png"
-            alt="exemple d'application"
+            alt="Mockup ieseg"
           >
         </slide>
         <slide>
           <img
             src="~/assets/img/kedge iphone.png"
-            alt="exemple d'application"
+            alt="Mockup Kedge"
           >
       </carousel>
     </div>
