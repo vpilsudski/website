@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a href="index.html"><img
+    <a href="index.vue"><img
         src="~/assets/img/chap-log.png"
         width="150px"
         class="top-logo"
@@ -348,10 +348,11 @@
       <div class="about-users">
         <h5>Qui êtes-vous ?</h5>
         <ul>
-          <li><a href="#">Festival</a></li>
-          <li><a href="#">Salon</a></li>
-          <li><a href="#">BDE</a></li>
-          <li><a href="#">Autre</a></li>
+          <li><a href="festival.vue">Festival</a></li>
+          <li><a href="salon.vue">Salon</a></li>
+          <li><a href="bde.vue">BDE</a></li>
+          <li><a href="foire.vue">Foire</a></li>
+          <li><a href="autre.vue">Autre</a></li>
         </ul>
       </div>
       <div class="follow">
@@ -389,7 +390,7 @@
 
       <div class="infos">
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="mention"
         >Mentions légales </a>-
         <a
