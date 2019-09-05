@@ -39,7 +39,7 @@
             class="menu-main-title"
             to="/foire"
             @mouseover.native="mode = 'foire'"
-          >Autre</nuxt-link>
+          >Foire</nuxt-link>
         </li>
         <li class="orange-home">
           <nuxt-link
