@@ -376,11 +376,11 @@
 
       <div class="infos">
         <a
-          href="#"
+          href="https://twitter.com/chapi_to"
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>
