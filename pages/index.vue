@@ -55,7 +55,7 @@
       class="img-blob pink-home"
       v-if="mode === 'festival'"
     > <img
-        src="~/assets/img/essai-panno.png"
+        src="~/assets/img/pitchfork iphone.png"
         width="400px"
       ></div>
 
@@ -63,7 +63,7 @@
       class="img-blob blue-home"
       v-if="mode === 'bde'"
     > <img
-        src="~/assets/img/essai-panno.png"
+        src="~/assets/img/ieseg iphone.png"
         width="400px"
       ></div>
 
@@ -71,21 +71,21 @@
       class="img-blob nude-home"
       v-if="mode === 'salon'"
     > <img
-        src="~/assets/img/essai-panno.png"
+        src="~/assets/img/european lab iphone.png"
         width="400px"
       ></div>
     <div
       class="img-blob green-home"
       v-if="mode === 'foire'"
     > <img
-        src="~/assets/img/essai-panno.png"
+        src="~/assets/img/FAVA Iphone.png"
         width="400px"
       ></div>
     <div
       class="img-blob orange-home"
       v-if="mode === 'autre'"
     > <img
-        src="~/assets/img/essai-panno.png"
+        src="~/assets/img/Panoramas Iphone.png"
         width="400px"
       ></div>
 
