@@ -235,38 +235,26 @@
       >
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/FAVA Iphone.png"
+            alt="mockup fava"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/european lab iphone.png"
+            alt="Mockup european lab"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/ieseg iphone.png"
+            alt="Mockup Ieseg"
           >
         </slide>
         <slide>
           <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
-          >
-        </slide>
-        <slide>
-          <img
-            src="~/assets/img/black-phones.png"
-            alt="exemple d'application"
+            src="~/assets/img/panoramas iphone.png"
+            alt="Mockup iphone"
           >
         </slide>
       </carousel>
