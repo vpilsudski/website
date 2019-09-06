@@ -110,7 +110,7 @@
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, , filtrez-les sur votre mobile. Ex : un programme gratuit et un programme payant, ou encore, programme avant festival et pendant festival.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -130,7 +130,7 @@
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, les festivaliers pourrons profiter pleinement de tous ses contenus même s'ils n'ont pas internet sur le festial.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -147,7 +147,7 @@
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Directement sur l'application, filtrer les différents concerts ou artistes en fonction de vos envies, de vos préférences, du lieux où vous vous trouvez, du programme auquel vous participez etc. Mettez en favoris vos événements, concerts, ou artistes préférés pour repérer en un clein d'oeil vos prochains RDV</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -165,7 +165,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Carte ou Plan</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Créez une carte ou un plan détaillé de votre festivals, renseignez un fond de carte créé par vos soins, indiquez les différentes zones (payantes et gratuites par ex.), renseignez les différents points d'intéret de votre festival etc. Vos festivaliers ne se perdrons plus jamais grâce à la géolocalisation</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-2-adv-bis hidden">
@@ -175,7 +175,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Cashless</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous mettez en place un système de paiement cashless sur votre festival ? C'est un sans faute! Les festivaliers pourrons directement recharger leur compte depuis l'application dans un onglet dédié. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de cashless avantageuses avec des partenaires.</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-3-adv-bis hidden">
@@ -185,7 +185,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Billeterie</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous avez une billeterie pour votre festival ? Plusieurs ? Parfait, retrouvez-les directements sur l'application. Soit sur une page dédiée pour une billeterie générale soit dans chaque fiches événements si vous avez plusieurs événements et plusieurs billeteries. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de billeterie avantageuses avec des partenaires.</div>
             <div class="arrow"></div>
           </div>
           <div class="advantage col-4-adv hidden">
@@ -195,7 +195,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Notifications</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace, et cela vous offre de nombreuses possibilités. Alertez vos festivaliers en cas de changements, d'imprévus, etc. Envoyez aussi des notifications CIBLEES, c'est encore mieux, ciblez uniquement un certain groupe de personnes, ceux présents à un before festival par exemple. </div>
             <div class="arrow"></div>
           </div>
         </div>
