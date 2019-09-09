@@ -101,7 +101,7 @@
                 <div class="advantage col-1-adv hidden">
                     <img class="img-adv" src="~/assets/img/icons8-calendar-80.png" width="60px">
                     <h4 class="titre-adv">Programmes de vos évènements</h4>
-                    <div class="toggle" id="titlefirst">blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+                    <div class="toggle" id="titlefirst">Créez un ou plusieurs programmes, regroupez-les ou séparez-les, filtrez-les sur votre mobile. Ex : un programme soirée, un programme week-end d'intégration et un programme semaine au ski ! </div>
                     <!-- LA ICI -->
                     <div class="arrow" onclick="javascript:toggl('col-1-adv','blue')" id="arrowfirst">
                       
@@ -110,13 +110,13 @@
                 </div>
                 <div class="advantage col-2-adv hidden"><img class="img-adv" src="~/assets/img/update.png" width="60px">
                     <h4 class="titre-adv">Mise à jour des contenus en instantané</h4>
-                    <div class="toggle" id="titlesecond">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle" id="titlesecond">Mettez instantanément les contenus de votre application à jour, une erreur dans la programmation du WEI ou des soirées, un changement de programme pour la semaine au ski, une nouvelle photo d'un intervenant, des nouvelles infos, etc. Actualisez tout le contenu de votre application instantanément. </div>
                     <!-- LA ICI -->
                     <div class="arrow" onclick="javascript:toggl('col-2-adv','blue')" id="arrowsecond"></div>
                 </div>
                 <div class="advantage col-3-adv hidden"><img class="img-adv" src="~/assets/img/icons8-lock-80.png" width="60px">
                     <h4 class="titre-adv">Privatisation de l'application</h4>
-                    <div class="toggle" id="titlethird">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle" id="titlethird">Vous avez la possibilité de rendre l'utilisation de l'application privée. Cela signifie que vous aurez la possibilité de n'autoriser la navigation dans l'application qu'aux étudiants présents sur la whitelist, sur inscription. Si vos contenus sont privés, si vous souhaitez restreindre l'accès aux contenus de l'application, vous pouvez tout à fait le faire grâce à cette fonctionnalité.</div>
                     <!-- LA ICI -->
                     <div class="arrow" onclick="javascript:toggl('col-3-adv','blue')" id="arrowthird"></div>
                 </div>
@@ -126,25 +126,25 @@
                 <div class="bloc-info-festival" id="bloc-festival-bde"><span>Informations pratiques</span></div>
                 <div class="advantage col-1-adv-bis hidden"><img class="img-adv" src="~/assets/img/icons8-gps-disconnected-80.png" width="60px">
                     <h4 class="titre-adv">Mode hors-ligne</h4>
-                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle">95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, les étudiants pourrons profiter pleinement de tous ses contenus même s'ils ne captent pas bien internet là où ils se trouvent.</div>
                     <div class="arrow" onclick="javascript:toggl('col-1-adv-bis','dark-blue')"></div>
                 </div>
                 <div class="advantage col-2-adv-bis hidden">
                     <img class="img-adv" src="~/assets/img/cashless.png" width="60px">
                     <h4 class="titre-adv">Cashless</h4>
-                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle">Vous mettez en place un système de paiement cashless pour certains de vos événements ? Cool ! Les étudiants pourrons directement recharger leur compte depuis l'application dans un onglet dédié. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de cashless avantageuses avec des partenaires.</div>
                     <div class="arrow" onclick="javascript:toggl('col-2-adv-bis','dark-blue')"></div>
                 </div>
                 <div class="advantage col-3-adv-bis hidden">
                     <img class="img-adv" src="~/assets/img/billet.png" width="60px">
                     <h4 class="titre-adv">Billeterie</h4>
-                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle">Vous avez une billeterie pour vos événement ? Plusieurs ? Lydia ? Pumkin ? Autre ? Parfait, retrouvez-les directements sur l'application. Soit sur une page dédiée pour une billeterie générale soit dans chaque fiches événements si vous avez plusieurs événements et plusieurs billeteries. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de billeterie avantageuses avec des partenaires.</div>
                     <div class="arrow" onclick="javascript:toggl('col-3-adv-bis','dark-blue')"></div>
                 </div>
                 <div class="advantage col-4-adv hidden">
                     <img class="img-adv" src="~/assets/img/notification.png" width="60px">
                     <h4 class="titre-adv">Notifications ciblées</h4>
-                    <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+                    <div class="toggle">Fonctionnalité indispensable, vous allez pouvoir alerter les étudiants, les prévenir d'un changement de programme. Leur rappeler le début d'une soirée etc. etc. Des possibilités infinies. Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. Envoyez également des notifications CIBLEES, c'est encore mieux, informez uniquement certain groupe de d'étudiant, les principaux concernés par votre alerte.</div>
                     <div class="arrow" onclick="javascript:toggl('col-4-adv','dark-blue')"></div>
                 </div>
             </div>
