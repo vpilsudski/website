@@ -108,7 +108,7 @@
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, filtrez-les sur votre mobile. Ex : un programme foire et un programme festival ou encore animations et musiques.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -128,7 +128,7 @@
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Mettez instantanément les contenus de votre application à jour, une erreur dans la programmation, un changement d'horaire d'une animation, une nouvelle image d'intervenant, des nouvelles infos pratiques, etc. Actualisez tout le contenu de votre application instantanément. </div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -147,7 +147,7 @@
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Directement sur l'application, filtrez les différents événements ou intervenants en fonction de vos envies, de vos préférences, du lieu où vous vous trouvez, du programme auquel vous participez etc. Mettez en favoris vos événements, ou animations préférés pour repérer en un clin d'oeil vos prochains RDV.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -171,7 +171,7 @@
             <div
               id="titlefourth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Cette fonctionnalité optionnelle, peut permettre par exemple à tous ceux possédant un stand de s'inscrire dans une liste, afin de se présenter, dire qui ils sont, où ils se trouvent, etc. Il est possible de s'inscrire sur l'application et de rendre son profil visible sur l'application avec son prénom, nom, emploi, entreprise, numéro, mail et description. Avec la possibilité d'éditer son profil, le supprimer, le rendre public etc. </div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-1-adv-bis', 'light-nude')"
@@ -188,7 +188,7 @@
             <div
               id="titlefifth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Créez une carte ou un plan détaillé de votre foire, renseignez un fond de carte créé par vos soins, indiquez les différentes zones (payantes et gratuites par ex.), renseignez les différents points d'intérets ou stands de votre foire etc. Les visiteurs ne se perdront plus jamais grâce à la géolocalisation.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-2-adv-bis','light-nude')"
@@ -201,7 +201,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Notifications ciblée</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace, et cela vous offre de nombreuses possibilités. Alertez vos festivaliers en cas de changements, d'imprévus, etc. Envoyer des notifications c'est bien, mais envoyer des notifications CIBLÉES c'est encore mieux, alors ciblez uniquement un certain groupe de personnes, ceux intéressés par les stands "gastronomie" par exemple.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-3-adv-bis', 'light-nude')"
@@ -214,7 +214,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Mode hors-ligne</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, les visiteurs pourrons profiter pleinement de tous ces contenus même s'ils n'ont pas internet sur le lieu de l'événement.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-4-adv', 'light-nude')"

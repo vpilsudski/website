@@ -109,7 +109,7 @@
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, filtrez-les sur votre mobile. Ex : un programme par thèmatique, programme animation, programme soirées etc.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -129,7 +129,7 @@
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Mettez instantanément les contenus de votre application à jour, une erreur dans la programmation, un changement de programme, une nouvelle image, des nouvelles infos, etc. Actualisez tout le contenu de votre application instantanément. </div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -146,7 +146,7 @@
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Directement sur l'application, filtrez les différents événements ou intervenants en fonction de vos envies, de vos préférences, du lieu où vous vous trouvez, du programme auquel vous participez etc. Mettez en favoris vos événements, animations, artistes, ou intervenants préférés pour repérer en un clein d'oeil vos prochains RDV.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -167,7 +167,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Notification ciblées</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace, et cela vous offre de nombreuses possibilités. Informez votre public ou vos clients des nouveautés, changements, imprévus, etc. Vous pouvez aussi CIBLER vos notifications et ne les envoyer qu'à un certain groupe de personnes, en fonction des intérets des uns et des autres.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-1-adv-bis', 'red')"
@@ -180,7 +180,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Utilisation annuelle ou ponctuelle</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Cela signifie que vous pouvez décider d'avoir accès à Chapitô, soit toute l'année, si vous avez plusieurs événements (plusieurs gros événements dans l'année, ou pleins d'événements tout au long de l'année), soit uniquement sur quelques mois, en ponctuel, pour un événement de quelques jours.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-2-adv-bis', 'red')"
@@ -193,7 +193,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Liste des participants</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Grâce à cette fonctionnalité il est possible de s'inscrire sur l'application et de rendre son profil visible avec son prénom, nom, emploi, entreprise, numéro, mail et description. Avec la possibilité d'éditer son profil, le supprimer, le rendre public etc. Peut-être utile lorsque vous organisez des événements ou le but est de se rencontrer.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-3-adv-bis', 'red')"
@@ -206,7 +206,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Privatisation de l'application</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous avez la possibilité de rendre l'utilisation de l'application privée. Cela signifie que vous aurez la possibilité de n'autoriser la navigation dans l'application qu'aux utilisateurs présents sur la whitelist, sur inscription. Si vos contenus sont privés, si vous souhaitez restreindre l'accès aux contenus de l'application, vous pouvez tout à fait le faire grâce à cette fonctionnalité.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-4-adv', 'red')"
