@@ -108,7 +108,7 @@
             <div
               class="toggle"
               id="titlefirst"
-            >blabl ablabl abalbaabalb albalbab ablbb ablab</div>
+            >Créez un ou plusieurs programmes, regroupez-les ou séparez-les, , filtrez-les sur votre mobile. Ex : un programme congrès, un programme conférences, ou encore un programme pitch.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -128,7 +128,7 @@
             <div
               class="toggle"
               id="titlesecond"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Mettez instantanément les contenus de votre application à jour, une erreur dans la programmation ou la liste des particpants, un changement d'intervenant, une nouvelle photo d'intervention, des nouvelles infos pratiques, etc. Actualisez tout le contenu de votre application instantanément </div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -147,7 +147,7 @@
             <div
               class="toggle"
               id="titlethird"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Vous avez la possibilité de rendre l'utilisation de l'application privée. Cela signifie que vous aurez la possibilité de n'autoriser la navigation dans l'application qu'aux utilisateurs présents sur la whitelist, sur inscription. Si vos contenus sont privés, si vous souhaitez restreindre l'accès aux contenus de l'application, vous pouvez tout à fait le faire grâce à cette fonctionnalité.</div>
             <!-- LA ICI -->
             <div
               class="arrow"
@@ -171,7 +171,7 @@
             <div
               id="titlefourth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Envoyez autant de notifications que vous le souhaitez grâce à Chapitô. C'est rapide, efficace et cela vous offre de nombreuses possibilités. Alertez vos visiteurs en cas de changements, d'imprévus, etc. Envoyez également des notifications CIBLÉES, c'est encore mieux, informez uniquement certain groupes de personnes, les principaux concernés par votre nouvelle ou alerte.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-1-adv-bis', 'light-nude')"
@@ -188,7 +188,7 @@
             <div
               id="titlefifth"
               class="toggle"
-            >blablablablabalbaabalbalbalbabablbbablab</div>
+            >Vous mettez en place un système de paiement cashless pour votre salon ? C'est un sans faute ! Vos visiteurs pourrons directement recharger leur compte depuis l'application dans un onglet dédié. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de cashless avantageuses avec des partenaires.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-2-adv-bis','light-nude')"
@@ -201,7 +201,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Mode hors-ligne</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, vos visiteurs et participants pourrons profiter pleinement de tous ses contenus même si le réseaux n'est pas très bon ou saturé sur le lieux de votre événement.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-3-adv-bis', 'light-nude')"
@@ -214,7 +214,7 @@
               width="60px"
             >
             <h4 class="titre-adv">Billeterie</h4>
-            <div class="toggle">blablablablabalbaabalbalbalbabablbbablab</div>
+            <div class="toggle">Vous avez une billeterie ? Plusieurs ? Parfait, retrouvez-les directements sur l'application. Soit sur une page dédiée pour une billeterie générale soit dans chaque fiches événements si vous avez plusieurs événements et plusieurs billeteries. Nous pouvons aussi échanger à ce sujet, nous avons des solutions de billeterie avantageuses avec des partenaires.</div>
             <div
               class="arrow"
               onclick="javascript:toggl('col-4-adv', 'light-nude')"
