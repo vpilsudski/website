@@ -273,7 +273,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br>a partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre ou vos événements sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -295,7 +295,7 @@
         class="btn-contact"
         id="btn-color-orange"
       >
-        <a href="#">Nous contacter</a>
+        <a href="mailto:contact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
         <a href="#">Programmer une démo</a>

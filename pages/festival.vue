@@ -123,7 +123,7 @@
           </div>
           <div class="advantage col-2-adv hidden"><img
               class="img-adv"
-              src="~/assets/img/update.png"
+              src="~/assets/img/icons8-gps-disconnected-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Mode hors ligne</h4>
@@ -158,7 +158,7 @@
         </div>
 
         <div class="advantage-info light-blue">
-          <div class="bloc-info-festival"><span>Informations pratiques</span></div>
+          <div class="bloc-info-festival"><span>Fonctionnalités adaptées</span></div>
           <div class="advantage col-1-adv-bis hidden"><img
               class="img-adv"
               src="~/assets/img/offline.png"
@@ -191,7 +191,7 @@
           <div class="advantage col-4-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/notification.png"
               width="60px"
             >
             <h4 class="titre-adv">Notifications</h4>
@@ -275,7 +275,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br>à partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre festival sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -328,8 +328,9 @@
       </div>
       <div class="about-us">
         <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
@@ -365,7 +366,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"
@@ -377,7 +378,7 @@
 
       <div class="infos">
         <a
-          href="https://twitter.com/chapi_to"
+          href="#"
           class="mention"
         >Mentions légales </a>-
         <a
