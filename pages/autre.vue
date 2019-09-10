@@ -59,7 +59,14 @@
 
             <strong>Les animations et activtés, les interventions, les invités, les horaires des concerts, les différents programmes, les événements, les soirées organisées, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br>MAIS ! également d'être alerté des changements et informé des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables, mais aussi ciblées ou générales.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
-
+        <div class="info">
+          <div class="pourcentage">
+            <p>D'ici 2021</p>
+          </div>
+          <div class="text-pourcentage">
+            <p>les mobiles devraient atteindre 61% du trafic Internet mondial. Il est temps de posséder une app !  </p>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -298,7 +305,7 @@
         <a href="mailto:contact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
-        <a href="#">Programmer une démo</a>
+        <a href="https://calendly.com/chapito">Programmer une démo</a>
       </div>
     </div>
 
@@ -329,8 +336,9 @@
       </div>
       <div class="about-us">
         <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
@@ -378,11 +386,11 @@
 
       <div class="infos">
         <a
-          href="http://chapi.to/privacy_policy.html"
+          href="#"
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>

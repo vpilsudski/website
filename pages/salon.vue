@@ -57,7 +57,14 @@
 
             <strong>Les exposants présents, les horaires des animations, la programmation, les infos pratiques, les principaux points d’intérêt, les partenaires, etc…</strong><br><br>MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
-        <div class="circle"><span>Lorem ipsum</span></div>
+       <div class="info">
+          <div class="pourcentage">
+            <p>74%</p>
+          </div>
+          <div class="text-pourcentage">
+            <p>des participants à un salon pensent qu'il est préférable d'utiliser une application plutôt que des documents papier pour avoir accès à toutes les informations de l'événement.</p>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -101,10 +108,10 @@
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/alternarif.png"
+              src="~/assets/img/icons8-calendar-80.png"
               width="60px"
             >
-            <h4 class="titre-adv">Programmes personnalisé</h4>
+            <h4 class="titre-adv">Programmes personnalisés</h4>
             <div
               class="toggle"
               id="titlefirst"
@@ -140,7 +147,7 @@
           </div>
           <div class="advantage col-3-adv hidden"><img
               class="img-adv"
-              src="~/assets/img/filtre.png"
+              src="~/assets/img/icons8-lock-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Privatisation de l'application</h4>
@@ -161,10 +168,10 @@
           <div
             class="bloc-info-festival"
             id="bloc-info-salon"
-          ><span>Informations pratiques</span></div>
+          ><span>Fonctionnalités adaptées</span></div>
           <div class="advantage col-1-adv-bis hidden"><img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/notification.png"
               width="60px"
             >
             <h4 class="titre-adv">Notifications ciblées</h4>
@@ -197,7 +204,7 @@
           <div class="advantage col-3-adv-bis hidden">
             <img
               class="img-adv"
-              src="~/assets/img/billet.png"
+              src="~/assets/img/icons8-gps-disconnected-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Mode hors-ligne</h4>
@@ -210,7 +217,7 @@
           <div class="advantage col-4-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/offline.png"
+              src="~/assets/img/billet.png"
               width="60px"
             >
             <h4 class="titre-adv">Billeterie</h4>
@@ -260,7 +267,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br> à partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre salon sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre salon sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -282,7 +289,7 @@
         class="btn-contact"
         id="btn-color-nude"
       >
-        <a href="#">Nous contacter</a>
+        <a href="mailtocontact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
         <a href="http://calendly.com/chapito">Programmer une démo</a>
@@ -316,8 +323,9 @@
       </div>
       <div class="about-us">
         <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
@@ -353,7 +361,7 @@
 
         </form>
         <p class="social-network">Réseaux sociaux</p>
-        <a href="#">
+        <a href="https://twitter.com/chapi_to">
           <img
             src="~/assets/img/icons8-twitter-entoure-96.png"
             width="46px"

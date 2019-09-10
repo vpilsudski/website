@@ -57,7 +57,14 @@
 
             <strong>Les intervenants présents, les animations et les horaires, les différents programmes, les informations pratiques, les principaux points d’intérêt, une carte complète, les partenaires, etc…</strong><br><br>MAIS ! également d'être alerté des changements et informé des nouveautés grâce aux notifications ! Elles seront immédiates ou programmables, mais aussi ciblées ou générales.<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
-        <div class="circle"><span>Lorem ipsum</span></div>
+         <div class="info">
+          <div class="pourcentage">
+            <p>70%</p>
+          </div>
+          <div class="text-pourcentage">
+            <p>des participants à une foire trouvent « qu’il est utile d’avoir une application dédiée a un événement »</p>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -101,7 +108,7 @@
           <div class="advantage col-1-adv hidden">
             <img
               class="img-adv"
-              src="~/assets/img/alternarif.png"
+              src="~/assets/img/icons8-calendar-80.png"
               width="60px"
             >
             <h4 class="titre-adv">Programmes personnalisés</h4>
@@ -197,7 +204,7 @@
           <div class="advantage col-3-adv-bis hidden">
             <img
               class="img-adv"
-              src="~/assets/img/billet.png"
+              src="~/assets/img/notification.png"
               width="60px"
             >
             <h4 class="titre-adv">Notifications ciblée</h4>
@@ -260,7 +267,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br> à partir de 2500€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre salon sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre salon sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -282,10 +289,10 @@
         class="btn-contact"
         id="btn-color-nude"
       >
-        <a href="#">Nous contacter</a>
+        <a href="mailto:contact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
-        <a href="#">Programmer une démo</a>
+        <a href="http://calendly.com/chapito">Programmer une démo</a>
       </div>
     </div>
 
@@ -315,9 +322,10 @@
 
       </div>
       <div class="about-us">
-        <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+       <h5>Qui sommes nous ?</h5>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">

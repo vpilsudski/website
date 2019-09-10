@@ -58,11 +58,14 @@
 
             <strong>Les intervenants présents, les horaires des soirées, la programmation, les infos sur le week-end d’inté, les infos pratiques, les préventes, les partenaires, la billetterie etc..</strong><br><br> MAIS ! également de rester informé des changements et être alerté des nouveautés grâce aux notifications !<br><br> L’application est un outil de communication à part entière et est au service de l’événement qu’elle promeut !</p>
         </div>
-        <div
-          class="circle"
-          id="circle-bde"
-        ><span>Lorem ipsum</span></div>
-      </div>
+      <div class="info">
+          <div class="pourcentage">
+            <p>98%</p>
+          </div>
+          <div class="text-pourcentage">
+            <p>des étudiants se disent prêts à privilégier une application comme système de communication avec leur école ou BDE. </p>
+          </div>
+        </div>
 
     </div>
     <div class="container-who who-bde">
@@ -71,7 +74,7 @@
         <h1>Pour<br>qui ?</h1>
       </div>
       <div class="paragraph-who">
-        <p><strong>Les étudiants</strong> pourront enfin avoir accès à toutes les information dont ils ont besoin et réserver leur préventes de soirées directement sur leurs smartphones grâce à votre application !</p>
+        <p><strong>Les étudiants</strong> pourront enfin avoir accès à toutes les information dont ils ont besoin et réserver leurs préventes de soirées directement sur leurs smartphones grâce à votre application !</p>
       </div>
       <div class="subtitle-where">
         <h1>Où la<br>trouver ?</h1>
@@ -123,7 +126,7 @@
             </div>
 
             <div class="advantage-info dark-blue">
-                <div class="bloc-info-festival" id="bloc-festival-bde"><span>Informations pratiques</span></div>
+                <div class="bloc-info-festival" id="bloc-festival-bde"><span>Fonctionnalités adaptées</span></div>
                 <div class="advantage col-1-adv-bis hidden"><img class="img-adv" src="~/assets/img/icons8-gps-disconnected-80.png" width="60px">
                     <h4 class="titre-adv">Mode hors-ligne</h4>
                     <div class="toggle">95% du contenu de l'application est disponible hors ligne ! Une fois l'application téléchargée, les étudiants pourrons profiter pleinement de tous ses contenus même s'ils ne captent pas bien internet là où ils se trouvent.</div>
@@ -192,7 +195,7 @@
         <div class="bloc-carre carre-col-1">
 
           <h3>Profitez de<br>Chapitô<br>à partir de 3300€</h3>
-          <p>Accédez à l’outil Chapitô afin de générez une application pour votre événement sur iPhone et sur Android</p>
+          <p>Accédez à l’outil Chapitô afin de générer une application pour votre BDE/ASSOCIATION sur iPhone et sur Android</p>
         </div>
 
         <div
@@ -214,7 +217,7 @@
         class="btn-contact"
         id="btn-color-blue"
       >
-        <a href="#">Nous contacter</a>
+        <a href="mailtocontact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
         <a href="http://calendly.com/chapito">Programmer une démo</a>
@@ -247,9 +250,10 @@
 
       </div>
       <div class="about-us">
-        <h5>Qui sommes nous ?</h5>
-        <p>Code Toopers,</p>
-        <p>rue blabla</p>
+         <h5>Qui sommes nous ?</h5>
+        <p>Chapitô by Code-Troopers,</p>
+        <p>MAME, Cité de la création et du numérique</p>
+        <p>49 boulevard Preuilly</p>
         <p>37000 Tours</p>
       </div>
       <div class="about-users">
@@ -301,7 +305,7 @@
           class="mention"
         >Mentions légales </a>-
         <a
-          href="#"
+          href="http://chapi.to/privacy_policy.html"
           class="policy"
         >Politique de confidentialité </a>
         <p class="copyright">&copy; 2019 Code Troopers</p>

@@ -294,7 +294,7 @@
 
     <div class="contact">
       <div class="btn-contact">
-        <a href="#">Nous contacter</a>
+        <a href="mailto:contact@chapi.to">Nous contacter</a>
       </div>
       <div class="btn-demo">
         <a href="https://calendly.com/chapito">Programmer une démo</a>
