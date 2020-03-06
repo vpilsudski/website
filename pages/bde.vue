@@ -292,8 +292,8 @@
         ></div>
         <div class="bloc-carre carre-col-2">
 
-          <h3>Offre<br>parrainage<br>500€</h3>
-          <p>Parrainez un autre événement ou BDE, vous obtiendrez une réduction de 500€ et votre filleul 250€.</p>
+          <h3>Offre<br>parrainage<br>250€</h3>
+          <p>Parrainez un autre événement ou BDE, vous obtiendrez une réduction de 250€ et votre filleul 250€.</p>
         </div>
 
       </div>
